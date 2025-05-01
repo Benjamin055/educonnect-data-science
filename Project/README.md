@@ -1,5 +1,3 @@
-Welcome to my EduConnect Data Science Repository!
-
 here is the project composed by the following directories:
 
 1.data — for raw and processed datasets
